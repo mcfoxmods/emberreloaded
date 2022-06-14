@@ -20,7 +20,6 @@ processResources {
 dependencies {
     compileOnly group: 'org.spongepowered', name: 'mixin', version: '0.8.4'
     implementation project(':emberreloaded-platform-api')
-    implementation project(':emberreloaded-core-api')
     testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:${project.junitVersion}"
     testImplementation "org.assertj:assertj-core:${project.assertJVersion}"
     testImplementation project(':emberreloaded-test')
