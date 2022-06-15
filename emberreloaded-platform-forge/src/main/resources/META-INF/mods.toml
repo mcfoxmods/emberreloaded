@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+issueTrackerURL = "https://github.com/mcfoxmods/emberreloaded"
+license="MIT"
+[[mods]]
+modId="emberreloaded"
+version="${version}"
+displayName="Ember Reloaded"
+displayURL="https://github.com/mcfoxmods/emberreloaded"
+#logoFile="icon.png"
+authors = "Mc Fox Mods"
+description = ''''''
