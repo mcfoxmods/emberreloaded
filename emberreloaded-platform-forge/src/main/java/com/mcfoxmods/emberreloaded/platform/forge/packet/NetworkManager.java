@@ -20,7 +20,7 @@ public class NetworkManager {
             .simpleChannel();
 
     public NetworkManager() {
-        int id = 0;
+//        int id = 0;
     }
 
     public void send(ServerPlayer player, Object message) {

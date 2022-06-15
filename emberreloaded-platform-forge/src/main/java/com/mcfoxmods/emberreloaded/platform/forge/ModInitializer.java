@@ -18,7 +18,7 @@ import static com.mcfoxmods.emberreloaded.platform.common.content.ContentIds.*;
 
 @Mod(IdentifierUtil.MOD_ID)
 public class ModInitializer extends AbstractModInitializer {
-    private static String BLOCK_TRANSLATION_CATEGORY = "block";
+//    private static String BLOCK_TRANSLATION_CATEGORY = "block";
 
     private static final CreativeModeTab CREATIVE_MODE_TAB = new CreativeModeTab(IdentifierUtil.MOD_ID + ".general") {
         @Override

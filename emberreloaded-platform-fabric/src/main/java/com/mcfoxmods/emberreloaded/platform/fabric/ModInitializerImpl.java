@@ -20,7 +20,7 @@ import static com.mcfoxmods.emberreloaded.platform.common.utils.IdentifierUtil.c
 public class ModInitializerImpl extends AbstractModInitializer implements ModInitializer {
 
     private static final Logger LOGGER = LogManager.getLogger(ModInitializerImpl.class);
-    private static final String BLOCK_TRANSLATION_CATEGORY = "block";
+//    private static final String BLOCK_TRANSLATION_CATEGORY = "block";
     private static final CreativeModeTab CREATIVE_MODE_TAB = FabricItemGroupBuilder.build(createIdentifier("general"), () -> new ItemStack(Blocks.INSTANCE.getBasicBlock()));
 
     @Override
