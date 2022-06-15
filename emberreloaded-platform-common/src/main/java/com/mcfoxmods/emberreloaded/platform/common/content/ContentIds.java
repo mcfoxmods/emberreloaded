@@ -1,4 +1,4 @@
-package com.mcfoxmods.emberreloaded.platform.forge.content;
+package com.mcfoxmods.emberreloaded.platform.common.content;
 
 import net.minecraft.resources.ResourceLocation;
 

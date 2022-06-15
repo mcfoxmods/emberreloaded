@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "emberreloaded:block/basic_block"
+  }
+}

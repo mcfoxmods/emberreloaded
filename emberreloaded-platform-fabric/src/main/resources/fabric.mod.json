@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "emberreloaded",
+    "version": "${version}",
+    "name": "Ember Reloaded",
+    "description": "",
+    "authors": [
+        "MC Fox Mods"
+    ],
+    "contact": {
+        "sources": "https://github.com/mcfoxmods/emberreloaded",
+        "issues": "https://github.com/mcfoxmods/emberreloaded/issues"
+    },
+    "icon": "",
+    "license": "MIT",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.mcfoxmods.emberreloaded.platform.fabric.ModInitializerImpl"
+        ],
+        "client": [
+            "com.mcfoxmods.emberreloaded.platform.fabric.ClientModInitializerImpl"
+        ]
+    },
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.11.3",
+        "fabric": "*",
+        "minecraft": "1.18.x",
+        "java": ">=17",
+        "cloth-config2": "*",
+        "team_reborn_energy": "*"
+    },
+    "suggests": {
+        "roughlyenoughitems": "*",
+        "modmenu": "*"
+    }
+}

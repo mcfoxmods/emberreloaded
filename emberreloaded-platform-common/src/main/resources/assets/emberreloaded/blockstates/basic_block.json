@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "emberreloaded:block/basic_block"
+    }
+  }
+}
