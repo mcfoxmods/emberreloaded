@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "emberreloaded:block/third_block"
+    }
+  }
+}

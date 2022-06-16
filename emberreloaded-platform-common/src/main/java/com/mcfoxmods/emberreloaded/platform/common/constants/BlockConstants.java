@@ -1,4 +1,4 @@
-package com.mcfoxmods.emberreloaded.platform.common.block;
+package com.mcfoxmods.emberreloaded.platform.common.constants;
 
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
